@@ -1,0 +1,47 @@
+.outer
+{
+height:1400px;
+width:100%;
+border:3px solid red;
+}
+.inner
+{
+height:200px;
+width:100%;
+}
+.innerleft
+{
+height:200px;
+
+width:20%;
+background:radial-gradient(circle,red,yellow,maroon);
+float:left;
+}
+.innerright
+{
+	height:200px;
+	width:80%;
+	background:linear-gradient(pink,green,lime);
+	float:left;
+}
+.menu{
+	height:100px;
+	width:100%;
+	background:red;
+}
+.main{
+	height:500px;
+	width:100%;
+}
+.main2
+{
+	height:500px;
+	width:100%;
+	background:radial-gradient(circle,white,cyan,grey); 
+}
+.footer
+{
+	height:200px;
+	width:100%;
+	background:radial-gradient(pink);
+}
