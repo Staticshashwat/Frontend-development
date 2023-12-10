@@ -1,0 +1,104 @@
+.outer		
+{
+height:1200px;
+width:100%;
+border:3px solid red;
+}
+.inner
+{
+	height:150px;
+	width:100%;
+	
+}
+.left
+{
+	height:150px;
+	width:25%;
+	background:linear-gradient(lime,white);
+	float:left;
+}
+.right
+{
+    height:150px;
+    width:75%;
+    background:linear-gradient(lime,white);
+	float:left;	
+}
+.r1
+{
+	height:50px;
+	width:20%;
+	margin-top:10px;
+	float:left;
+}
+.r2
+{
+    height:50px;
+	width:50%;
+	margin-top:10px;
+    float:right;	
+}
+.r3
+{
+	height:50px;
+	width:99%;
+	margin-top:85px;
+	margin-right:5px;
+	background-color:white;
+}
+
+.a1
+{
+	height:200px;
+	width:100%;
+	background-color:teal;
+}
+
+.a2
+{
+	height:600px;
+	width:100%;
+}
+.a2left
+{
+	height:600px;
+	width:65%;
+	background-image:url('cake.webp');
+	float:left;
+}
+
+.a21
+{
+	height:70px;
+	width:40%;
+	margin-left:40%;
+	margin-top:350px;
+	background-color:red;
+	border-radius:10px 10px 10px 10px;
+}
+.a2right
+{
+	height:600px;
+	width:35%;
+	background-color:white;
+	float:left;
+}
+.a22
+{
+	height:260px;
+	width:99%;
+	border:3px solid black;
+}
+.a221
+{
+	height:70px;
+	float:left;
+	width:99%;
+	background-color:lime;
+}
+.a3
+{
+	height:250px;
+	width:100%;
+	background-color:pink;
+}
