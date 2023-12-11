@@ -1,0 +1,142 @@
+.outer
+{
+height:1800px;
+width:100%;
+}
+.div1
+{
+	height:350px;
+	width:100%;
+	background-color:blue;
+	float:left;
+}
+.a1
+{
+height:80px;
+width:100%;
+background-color:yellow;	
+float:left;
+}	
+.outer ul li
+{
+	display:inline-block;
+	padding:20px;
+}
+.outer ul li a
+{
+	text-decoration:none;
+	color:white;
+}
+.a2
+{
+height:270px;
+width:100%;
+background-image:url('54.jpg');
+float:left;
+	
+}	
+.div2
+{
+	height:550px;
+	width:100%;
+	background-color:blue;
+	float:left;
+}
+.b1
+{
+	height:550px;
+	width:40%;
+	background-color:green;
+	float:left;
+	
+}
+.b2
+{
+	height:550px;
+	width:30%;
+	background-color:pink;
+	float:left;
+}
+.b3
+{
+	height:550px;
+	width:30%;
+	background-color:yellow;
+	float:left;
+}
+.div3
+{
+	height:500px;
+	width:100%;
+	background-color:red;
+	float:left;
+}
+.c1
+{
+	height:500px;
+	width:70%;
+	background-color:gray;
+	float:left;
+}
+.c2
+{
+	height:500px;
+	width:30%;
+	background-color:green;
+	float:left;
+}
+.c2a
+{
+	height:250px;
+	width:100%;
+	background-color:purple;
+	float:left;
+}
+.c2b
+{
+height:250px;
+width:100%;
+float:left;	
+}
+.div4
+{
+	height:300px;
+	width:100%;
+	background-color:red;
+	float:left;
+}
+.d1
+{
+	height:300px;
+	width:50%;
+	float:left;
+	background-color:orange;
+}
+.d2
+{
+	height:300px;
+	width:50%;
+	float:left;
+	background-color:lightgreen;
+}
+.div5
+{
+	height:150px;
+	width:100%;
+	float:left;
+	background-color:red;
+}
+.e1
+{
+	height:150px;
+	width:30%;
+	float:left;
+	background-color:green;
+}
+.e2
+{
+	height:150px;
+	width:70%;
+	float:left;
+	background-color:gray;
+}
