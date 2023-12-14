@@ -1,0 +1,7 @@
+.outer
+{
+height:500px;
+width:500px;
+border:3px solid red;
+box-shadow:5px 10px 20px green inset;
+}
